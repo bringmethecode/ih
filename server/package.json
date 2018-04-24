@@ -9,10 +9,10 @@
     "cors": "^2.8.4",
     "express": "4.13.4",
     "express-graphql": "^0.5.4",
-    "graphql": "0.6.0",
-    "helmet": "^3.11.0",
-    "mongoose": "^5.0.4",
-    "shortid": "^2.2.8"
+    "graphql": "^0.13.2",
+    "graphql-import": "^0.5.0",
+    "helmet": "^3.12.0",
+    "mongoose": "^5.0.16"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
